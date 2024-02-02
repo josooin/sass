@@ -57,7 +57,7 @@ dd a:hover {
   background: rgb(255, 255, 159);
   transform: scale(1.1);
   box-shadow: 0px 0px 3px rgb(172, 172, 172);
-  text-indent: 50px;
+  text-indent: 100px;
 }
 
 footer {
